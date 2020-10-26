@@ -1,0 +1,11 @@
+{
+    "port": 4000,
+    "serverOnAirMessage": "listening on *:",
+    "serverAPI": "https://reqres.in/api/users",
+    "serverError": "Some problem occurred, please try later",
+    "proxyAck": "The request in processing...",
+    "proxyCacheAck": "The request was saved in the cache",
+    "lastFetchingDataCache": "lastFetchingData-",
+    "queryKeyCache": "page-",
+    "queryApi": "page="
+}

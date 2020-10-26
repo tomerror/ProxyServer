@@ -1,0 +1,24 @@
+.link {
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin: 1%;
+  cursor: pointer;
+  background: #45b145;
+  border-radius: 40%;
+  padding: 0.5%;
+  width: 1%;
+}
+
+.link:hover{
+    background: #57ca57;
+}
+
+.activeLink {
+  background: #a09c9c;
+  cursor: context-menu;
+}
+
+.activeLink:hover {
+    background: #a09c9c;
+  }
